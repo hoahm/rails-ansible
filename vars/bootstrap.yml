@@ -1,0 +1,5 @@
+---
+sysadmin:
+  username: webapp
+
+admin_group: wheel

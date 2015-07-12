@@ -1,0 +1,7 @@
+---
+deploy_user: deploy
+webserver_name: 'example.com'
+deploy_directory: /home/deploy/<project-name>
+app_name: <project-name>
+dbuser: <db-username>
+dbpass: <db-password>
